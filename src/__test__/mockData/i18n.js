@@ -1,6 +1,6 @@
 export const I18N = {
-  PROJECT_NAME: 'webapp',
-  META_TITLE: 'Webapp',
+  PROJECT_NAME: 'webpack-react-serviceworker-example',
+  META_TITLE: 'webpack-react-serviceworker-example',
   RATES: 'Rates',
   RATES_LIST: 'RATES LIST',
   NAME: 'Name',

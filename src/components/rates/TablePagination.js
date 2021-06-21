@@ -1,5 +1,5 @@
-import { withI18n } from "../decorator/i18n";
 import React from 'react';
+import { withI18n } from "../decorator/i18n";
 
 function TablePagination({
   gotoPage,

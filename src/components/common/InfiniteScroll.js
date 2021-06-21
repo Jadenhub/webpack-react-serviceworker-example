@@ -1,5 +1,5 @@
-import useInfiniteScroll from '../hooks/useInfiniteScroll';
 import React from 'react';
+import useInfiniteScroll from '../hooks/useInfiniteScroll';
 
 export default function InfiniteScroll({
   hasMore,

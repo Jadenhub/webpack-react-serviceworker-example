@@ -2,41 +2,41 @@
 
 exports[`renders correctly 1`] = `
 <div
-  className="RatesTable__RatesTableWrapper-sc-6px1wy-2 eWPJeL"
+  className="RatesTable__RatesTableWrapper-sc-12rk3fv-2 cYEdGn"
 >
   <button
-    className="Button__ButtonWrapper-sc-7gm9an-0 ezwsvg"
+    className="Button__ButtonWrapper-sc-1ss8obf-0 izSfWZ"
     onClick={[Function]}
   >
     Select All
   </button>
   <ul
-    className="RatesTable__UlWrapper-sc-6px1wy-0 jLgX"
+    className="RatesTable__UlWrapper-sc-12rk3fv-0 elBSHT"
   >
     <li
-      className="RatesTable__LiWrapper-sc-6px1wy-1 iInnWt"
+      className="RatesTable__LiWrapper-sc-12rk3fv-1 cUSuUd"
     >
       <div
-        className="Item__RootWrapper-w49u1w-0 jSTozc"
+        className="Item__RootWrapper-sc-1ko4sis-0 kcwzFU"
         onClick={[Function]}
       >
         <div
-          className="Item__ItemWrapper-w49u1w-1 joGTJV"
+          className="Item__ItemWrapper-sc-1ko4sis-1 XwQtR"
         >
           :
         </div>
         <div
-          className="Item__ItemWrapper-w49u1w-1 joGTJV"
+          className="Item__ItemWrapper-sc-1ko4sis-1 XwQtR"
         >
           :
         </div>
         <div
-          className="Item__ItemWrapper-w49u1w-1 joGTJV"
+          className="Item__ItemWrapper-sc-1ko4sis-1 XwQtR"
         >
           :
         </div>
         <div
-          className="Item__ItemWrapper-w49u1w-1 joGTJV"
+          className="Item__ItemWrapper-sc-1ko4sis-1 XwQtR"
         >
           :
         </div>

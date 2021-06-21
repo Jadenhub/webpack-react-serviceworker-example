@@ -2,12 +2,12 @@
 
 exports[`renders correctly 1`] = `
 <div
-  className="DelayedUiWrapper__Wrapper-wmxvle-0 qofFN"
+  className="DelayedUiWrapper__Wrapper-qcmkwu-0 iGMkoW"
 />
 `;
 
 exports[`renders correctly 2`] = `
 <div
-  className="DelayedUiWrapper__Wrapper-wmxvle-0 glLRB"
+  className="DelayedUiWrapper__Wrapper-qcmkwu-0 gvNTfy"
 />
 `;

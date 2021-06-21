@@ -3,10 +3,10 @@
 exports[`renders correctly 1`] = `
 Array [
   <div
-    className="RatesTable__PaginationWrapper-sc-15lm2yq-0 gUTwaY"
+    className="RatesTable__PaginationWrapper-w8xhh9-0 jVDtaU"
   />,
   <table
-    className="RatesTable__TableWrapper-sc-15lm2yq-1 bNmyAP"
+    className="RatesTable__TableWrapper-w8xhh9-1 bZrfOn"
     role="table"
   >
     <thead>
@@ -97,10 +97,10 @@ Array [
 exports[`without data 1`] = `
 Array [
   <div
-    className="RatesTable__PaginationWrapper-sc-15lm2yq-0 gUTwaY"
+    className="RatesTable__PaginationWrapper-w8xhh9-0 jVDtaU"
   />,
   <table
-    className="RatesTable__TableWrapper-sc-15lm2yq-1 bNmyAP"
+    className="RatesTable__TableWrapper-w8xhh9-1 bZrfOn"
     role="table"
   >
     <thead>

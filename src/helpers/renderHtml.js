@@ -19,8 +19,8 @@ function getProps(props){
 
 const render = async (req) => {
   const sheet = new ServerStyleSheet();
-  const i18n = getTranslation();
   try {
+    const i18n = getTranslation();
     const isMobile = getDeviceType(req) === MOBILE;
     const content = renderToString(sheet.collectStyles(
       <Root
