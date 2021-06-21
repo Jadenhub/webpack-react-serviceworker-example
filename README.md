@@ -33,6 +33,15 @@ npm install
 ```sh
 npm run dev
 ```
+3.
+Desktop
+
+<img src="https://user-images.githubusercontent.com/36879858/122718460-8e105480-d29f-11eb-8790-cebacbb542ce.png" width="50%">
+
+Mobile
+
+<img src="https://user-images.githubusercontent.com/36879858/122718515-9f596100-d29f-11eb-9a57-28c457b5124b.png" width="20%">
+
 
 ## Docker
 
