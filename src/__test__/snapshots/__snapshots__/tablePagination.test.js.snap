@@ -1,0 +1,103 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <button
+    disabled={false}
+    onClick={[Function]}
+  >
+    &lt;&lt;
+  </button>
+   
+  <button
+    disabled={false}
+    onClick={[Function]}
+  >
+    &lt;
+  </button>
+   
+  <button
+    disabled={false}
+    onClick={[Function]}
+  >
+    &gt;
+  </button>
+   
+  <button
+    disabled={false}
+    onClick={[Function]}
+  >
+    &gt;&gt;
+  </button>
+   
+  <span>
+    Page
+     
+    <strong>
+      1
+       
+      of
+       
+      10
+    </strong>
+     
+  </span>
+  <span>
+    | 
+    Go to page
+    :
+     
+    <input
+      defaultValue={1}
+      onChange={[Function]}
+      style={
+        Object {
+          "width": "100px",
+        }
+      }
+      type="number"
+    />
+  </span>
+   
+  <select
+    onChange={[Function]}
+    value={10}
+  >
+    <option
+      value={10}
+    >
+      Show
+       
+      10
+    </option>
+    <option
+      value={20}
+    >
+      Show
+       
+      20
+    </option>
+    <option
+      value={30}
+    >
+      Show
+       
+      30
+    </option>
+    <option
+      value={40}
+    >
+      Show
+       
+      40
+    </option>
+    <option
+      value={50}
+    >
+      Show
+       
+      50
+    </option>
+  </select>
+</div>
+`;

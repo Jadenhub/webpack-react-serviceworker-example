@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="RatesTable__RatesTableWrapper-sc-6px1wy-2 eWPJeL"
+>
+  <button
+    className="Button__ButtonWrapper-sc-7gm9an-0 ezwsvg"
+    onClick={[Function]}
+  >
+    Select All
+  </button>
+  <ul
+    className="RatesTable__UlWrapper-sc-6px1wy-0 jLgX"
+  >
+    <li
+      className="RatesTable__LiWrapper-sc-6px1wy-1 iInnWt"
+    >
+      <div
+        className="Item__RootWrapper-w49u1w-0 jSTozc"
+        onClick={[Function]}
+      >
+        <div
+          className="Item__ItemWrapper-w49u1w-1 joGTJV"
+        >
+          :
+        </div>
+        <div
+          className="Item__ItemWrapper-w49u1w-1 joGTJV"
+        >
+          :
+        </div>
+        <div
+          className="Item__ItemWrapper-w49u1w-1 joGTJV"
+        >
+          :
+        </div>
+        <div
+          className="Item__ItemWrapper-w49u1w-1 joGTJV"
+        >
+          :
+        </div>
+      </div>
+    </li>
+  </ul>
+</div>
+`;

@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="Item__RootWrapper-w49u1w-0 gPBKOw"
+  onClick={[Function]}
+>
+  <div
+    className="Item__ItemWrapper-w49u1w-1 joGTJV"
+  >
+    Name
+    :
+    Bitcoin
+  </div>
+  <div
+    className="Item__ItemWrapper-w49u1w-1 joGTJV"
+  >
+    Type
+    :
+    crypto
+  </div>
+  <div
+    className="Item__ItemWrapper-w49u1w-1 joGTJV"
+  >
+    Value
+    :
+    1
+  </div>
+  <div
+    className="Item__ItemWrapper-w49u1w-1 joGTJV"
+  >
+    Unit
+    :
+    BTC
+  </div>
+</div>
+`;

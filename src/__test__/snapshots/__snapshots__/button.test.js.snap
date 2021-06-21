@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<button
+  className="Button__ButtonWrapper-sc-7gm9an-0 dVbGaX"
+  disabled={true}
+/>
+`;

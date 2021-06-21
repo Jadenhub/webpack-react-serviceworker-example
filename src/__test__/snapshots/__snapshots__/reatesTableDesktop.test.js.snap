@@ -1,0 +1,153 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+Array [
+  <div
+    className="RatesTable__PaginationWrapper-sc-15lm2yq-0 gUTwaY"
+  />,
+  <table
+    className="RatesTable__TableWrapper-sc-15lm2yq-1 bNmyAP"
+    role="table"
+  >
+    <thead>
+      <tr
+        role="row"
+      >
+        <th
+          colSpan={1}
+          role="columnheader"
+        >
+          <div>
+            <input
+              checked={false}
+              onChange={[Function]}
+              type="checkbox"
+            />
+          </div>
+        </th>
+        <th
+          colSpan={1}
+          role="columnheader"
+        >
+          Name
+        </th>
+        <th
+          colSpan={1}
+          role="columnheader"
+        >
+          Type
+        </th>
+        <th
+          colSpan={1}
+          role="columnheader"
+        >
+          Unit
+        </th>
+        <th
+          colSpan={1}
+          role="columnheader"
+        >
+          Value
+        </th>
+      </tr>
+    </thead>
+    <tbody
+      role="rowgroup"
+    >
+      <tr
+        role="row"
+      >
+        <td
+          role="cell"
+        >
+          <div>
+            <input
+              checked={false}
+              onChange={[Function]}
+              type="checkbox"
+            />
+          </div>
+        </td>
+        <td
+          role="cell"
+        >
+          
+        </td>
+        <td
+          role="cell"
+        >
+          
+        </td>
+        <td
+          role="cell"
+        >
+          
+        </td>
+        <td
+          role="cell"
+        >
+          
+        </td>
+      </tr>
+    </tbody>
+  </table>,
+]
+`;
+
+exports[`without data 1`] = `
+Array [
+  <div
+    className="RatesTable__PaginationWrapper-sc-15lm2yq-0 gUTwaY"
+  />,
+  <table
+    className="RatesTable__TableWrapper-sc-15lm2yq-1 bNmyAP"
+    role="table"
+  >
+    <thead>
+      <tr
+        role="row"
+      >
+        <th
+          colSpan={1}
+          role="columnheader"
+        >
+          <div>
+            <input
+              checked={false}
+              onChange={[Function]}
+              type="checkbox"
+            />
+          </div>
+        </th>
+        <th
+          colSpan={1}
+          role="columnheader"
+        >
+          Name
+        </th>
+        <th
+          colSpan={1}
+          role="columnheader"
+        >
+          Type
+        </th>
+        <th
+          colSpan={1}
+          role="columnheader"
+        >
+          Unit
+        </th>
+        <th
+          colSpan={1}
+          role="columnheader"
+        >
+          Value
+        </th>
+      </tr>
+    </thead>
+    <tbody
+      role="rowgroup"
+    />
+  </table>,
+]
+`;
